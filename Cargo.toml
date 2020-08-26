@@ -1,0 +1,13 @@
+[package]
+name = "dw"
+version = "0.1.0"
+authors = ["Siddharth Mahendraker <siddharth.mahen@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4"
+ansi_term = "0.12"
+clap = "2.0"
+csv = "1.1"
